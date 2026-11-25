@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sudotechnology.github.io/yacht-charter-crm-t1-1-hixw/sitemap.xml
